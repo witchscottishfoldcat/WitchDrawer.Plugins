@@ -2,7 +2,7 @@
 
 [WitchDrawer](https://github.com/witchscottishfoldcat/WitchDrawer) 的官方插件目录和开发示例。时钟、性能组件等扩展通过原生 WPF 按需安装。
 
-本仓库对应正在开发的插件 API v1；已发布的旧版 WitchDrawer 尚未包含插件入口。当前目录为空，时钟示例可自行打包并安装到支持插件的开发版。审核收录后，用户刷新插件中心即可获取插件。
+本仓库对应正在开发的插件 API v1；已发布的旧版 WitchDrawer 尚未包含插件入口。当前已收录 [桌面时钟 v1.0.0](https://github.com/witchscottishfoldcat/WitchDrawer.Plugins/releases/tag/witchdrawer.clock-v1.0.0)，在支持插件的开发版中刷新插件中心即可安装。也可以下载 Release ZIP，通过「安装本地插件」导入。
 
 ## 提交插件
 

@@ -1,4 +1,24 @@
 {
   "schemaVersion": 1,
-  "plugins": []
+  "plugins": [
+    {
+      "plugin": {
+        "id": "witchdrawer.clock",
+        "name": "\u684C\u9762\u65F6\u949F",
+        "description": "\u8F7B\u91CF\u6570\u5B57\u65F6\u949F\uFF0C\u53EF\u5207\u6362 12/24 \u5C0F\u65F6\u5236\u548C\u79D2\u6570\u663E\u793A\u3002",
+        "author": "Thewitchcat",
+        "version": "1.0.0",
+        "apiVersion": 1,
+        "minHostVersion": "1.4.4",
+        "maxHostVersion": null,
+        "repositoryUrl": "https://github.com/witchscottishfoldcat/WitchDrawer.Plugins",
+        "entryAssembly": "WitchDrawer.Clock.dll",
+        "entryType": "WitchDrawer.Clock.ClockPlugin",
+        "permissions": []
+      },
+      "packageUrl": "https://github.com/witchscottishfoldcat/WitchDrawer.Plugins/releases/download/witchdrawer.clock-v1.0.0/witchdrawer.clock-v1.0.0.zip",
+      "sha256": "a8765c3b68f36f7ac47d8655d40b4df4620bbd4965ba1812ae963577fc0f81de",
+      "screenshotUrl": null
+    }
+  ]
 }
